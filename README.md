@@ -11,8 +11,8 @@ this is a screen made by python with flet framework and pytube library.
 python -m venv venv
 ```
 2. You need to activete your virtual enviroment:
-In Windows tap ```cd venv\Scripts\activate.bat``` or ```venv\Scripts\activate```
-In Linux tap ```cd venv\bin\activate```
+- In Windows tap ```cd venv\Scripts\activate.bat``` or ```venv\Scripts\activate```
+- In Linux tap ```cd venv\bin\activate```
 3. Install wall dependencies with:
 ```pip install requirements.txt```
 4. run main.py file to see a screen
